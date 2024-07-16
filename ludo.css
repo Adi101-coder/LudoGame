@@ -1,0 +1,223 @@
+#red{
+    background-color: white;
+    border: 35px;
+    border-color: red;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    
+}
+#inner{
+    background-color: white;
+    border-color: black;
+    border: 3px;
+    border: solid;
+    height: 150px;
+}
+.container{
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px black solid
+}
+#one{
+    left: 30px;
+    top: 15px;
+    position:relative;
+}
+#two{
+    left: 95px;
+    bottom: 13px;
+    position: relative;
+}
+#three{
+    top: 40px;
+    left: 30px;
+    position: relative;
+}
+#four{
+    left: 95px;
+    top: 15px;
+    position: relative;
+}
+#blue{
+    background-color: white;
+    border: 35px;
+    border-color: blue;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    
+}
+#inner{
+    background-color: white;
+    border-color: black;
+    border: 3px;
+    border: solid;
+    height: 150px;
+}
+.containerb{
+    height: 25px;
+    width: 25px;
+    background-color: blue;
+    border-radius: 50%;
+    border: 2px black solid
+}
+#one{
+    left: 30px;
+    top: 15px;
+    position:relative;
+}
+#two{
+    left: 95px;
+    bottom: 13px;
+    position: relative;
+}
+#three{
+    top: 40px;
+    left: 30px;
+    position: relative;
+}
+#four{
+    left: 95px;
+    top: 15px;
+    position: relative;
+}
+#green{
+    background-color: white;
+    border: 35px;
+    border-color: green;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    
+}
+#inner1{
+    background-color: white;
+    border-color: black;
+    border: 3px;
+    border: solid;
+    height: 150px;
+}
+.container1{
+    height: 25px;
+    width: 25px;
+    background-color: green;
+    border-radius: 50%;
+    border: 2px black solid
+}
+#one1{
+    left: 30px;
+    top: 15px;
+    position:relative;
+}
+#two1{
+    left: 95px;
+    bottom: 13px;
+    position: relative;
+}
+#three1{
+    top: 40px;
+    left: 30px;
+    position: relative;
+}
+#four1{
+    left: 95px;
+    top: 15px;
+    position: relative;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+}
+.portion{
+    flex: 1;  
+    border: 1px solid black;
+}
+.portion1{
+    flex: 1;
+    border: 1px solid black;
+    background-color: green;
+}
+.portion3{
+    flex: 1;
+    border: 1px solid black;
+    background-color: blue;
+}
+.portiony{
+    flex: 1;
+    border: 1px solid black;
+    background-color: yellow;
+}
+.portionr{
+    flex: 1;
+    border: 1px solid black;
+    background-color: red;
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+}
+.portion2{
+    flex: 1;
+    border: 1px solid black;
+    background-color: red;
+}
+#yellow{
+    background-color: white;
+    border: 35px;
+    border-color: yellow;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    
+}
+#inner1{
+    background-color: white;
+    border-color: black;
+    border: 3px;
+    border: solid;
+    height: 150px;
+}
+.container4{
+    height: 25px;
+    width: 25px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 2px black solid
+}
+#one1{
+    left: 30px;
+    top: 15px;
+    position:relative;
+}
+#two1{
+    left: 95px;
+    bottom: 13px;
+    position: relative;
+}
+#three1{
+    top: 40px;
+    left: 30px;
+    position: relative;
+}
+#four1{
+    left: 95px;
+    top: 15px;
+    position: relative;
+}
+.between{
+    display: flex;
+    justify-content: center;
+}
+.portionm{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 35px;
+    
+}
